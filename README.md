@@ -29,22 +29,16 @@ Telegram Bot To Generate Pyrogram And Telethon String Session.
    ```markdown
    git clone https://github.com/AL3X-Github/String-Bot
    ```
-
 2. Get a `DATABASE_URL`. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
-
 3. Rename `.env.sample` to `.env` and fill the needed variables
-
-
 4. Enter the directory
    ```markdown
    cd StringSessionBot
    ```
-
 5. Install all the dependencies
    ```markdown
    pip install -r requirements.txt
    ```
-
 6. Run the file
    ```markdown
    python3 bot.py
