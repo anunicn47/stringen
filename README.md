@@ -1,8 +1,12 @@
-# Pyrogram and Telethon String Session Bot [@StarkStringGenBot](https://t.me/StarkStringGenBot)
+<h2 align="center">
+    ─「 String Session Bot 」─
+</h2>
 
 > A Star ⭐ From You Means A Lot To Us My Friend!
 
-<p align="center"><a href="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg" width="2000"></a></p>
+<p align="center">
+
+<img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg" alt="StringGen">
 
 Telegram Bot To Generate Pyrogram And Telethon String Session.
 
@@ -21,25 +25,27 @@ Telegram Bot To Generate Pyrogram And Telethon String Session.
     ─「 Local Deploying 」─
 </h2>
 
-❶. Clone The Repo
+1. Clone The Repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/StringSessionBot
+   git clone https://github.com/AL3X-Github/String-Bot
    ```
-❷. Get a `DATABASE_URL`. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
-   
-❸. Rename `.env.sample` to `.env` and fill the needed variables
 
-❹. Enter the directory
+2. Get a `DATABASE_URL`. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
+
+3. Rename `.env.sample` to `.env` and fill the needed variables
+
+
+4. Enter the directory
    ```markdown
    cd StringSessionBot
    ```
 
-❺. Install all the dependencies
+5. Install all the dependencies
    ```markdown
    pip install -r requirements.txt
    ```
 
-❻. Run the file
+6. Run the file
    ```markdown
    python3 bot.py
    ```
