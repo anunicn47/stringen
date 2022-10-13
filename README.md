@@ -33,7 +33,7 @@ Telegram Bot To Generate Pyrogram And Telethon String Session.
 3. Rename `.env.sample` to `.env` and fill the needed variables
 4. Enter the directory
    ```markdown
-   cd StringSessionBot
+   cd String-Bot
    ```
 5. Install all the dependencies
    ```markdown
