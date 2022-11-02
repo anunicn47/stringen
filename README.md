@@ -72,6 +72,10 @@ Telegram Bot To Generate Pyrogram And Telethon String Session.
 - [Lonami](https://github.com/Lonami) For His [Telethon](https://docs.telethon.dev) Library 
 
 </details>
+<h2 align="center">
+    ─「 Support & Updates 」─
+</h2>
+
 <div align="center">
 
 ![Support Cover](https://github.com/AL3X-Github/Resources/blob/main/Photos/Support.png)
