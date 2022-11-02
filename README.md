@@ -6,13 +6,12 @@
 
 <p align="center">
 
-<img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg" alt="StringGen">
+<img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/Izumi%20X%20Shikimori.png">
 
 Telegram Bot To Generate Pyrogram And Telethon String Session.
 
-<h2 align="center">
-    ─「 Deploy to Heroku 」─
-</h2>
+<details>
+<summary><h3>「 Deploy to Heroku 」</h3></summary>
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AL3X-Github/String-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
@@ -24,9 +23,9 @@ Telegram Bot To Generate Pyrogram And Telethon String Session.
 
 ❹. Check The Logs To See If Your Bot Is Ready!
 
-<h2 align="center">
-    ─「 Local Deploying 」─
-</h2>
+</details>
+<details>
+<summary><h3>「 Local Deploying 」</h3></summary>
 
 1. Clone The Repo
    ```markdown
@@ -47,9 +46,9 @@ Telegram Bot To Generate Pyrogram And Telethon String Session.
    python3 bot.py
    ```
 
-<h2 align="center">
-    ─「 Config 」─
-</h2>
+</details>
+<details>
+<summary><h3>「 Config 」</h3></summary>
 
 - `API_ID` - Get this from [my.telegram.org](https://my.telegram.org/auth)
 - `API_HASH` - Get this from [my.telegram.org](https://my.telegram.org/auth)
@@ -57,44 +56,38 @@ Telegram Bot To Generate Pyrogram And Telethon String Session.
 - `DATABASE_URL` - Will be automatically added by Heroku.
 - `MUST_JOIN` - Username/ID of your telegram channel/group.
 
-<h1 align="center">
-    ─「 Functions 」─
-</h1>
+</details>
+<details>
+<summary><h3>「 Functions 」</h3></summary>
 
 - Generate Pyrogram Users String Session 
 - Generate Pyrogram bot string session
 - Generate Pyrogram Version 1 And 2 String Session's 
 - Generate Telethon String Session 
 
-
-<h2 align="center">
-    ─「 Credits 」─
-</h2>
+</details><details>
+<summary><h3>「 Credits 」</h3></summary>
 
 - [Dan Tès](https://github.com/delivrance) For His [Pyrogram](https://docs.pyrogram.org) Library
 - [Lonami](https://github.com/Lonami) For His [Telethon](https://docs.telethon.dev) Library 
 
-<h2 align="center">
-    ─「 Support & Updates 」─
-</h2>
-
+</details>
 <div align="center">
 
-![Cover](https://te.legra.ph/file/601cfb397a19f503c9265.jpg)
+![Support Cover](https://github.com/AL3X-Github/Resources/blob/main/Photos/Support.png)
 
 </div>
 
 <div align="center">
 
-ⓘ あきらめないで
-
-[![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXChannels)
+[![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXChannels)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AL3X-Github)
 
+<h6>
 
-© Copyright Holder : [Maxim X Bots](https://t.me/MaximXBots)
+**Copyright 2022 :** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot) 
 
+</h6>
 </div>
-
 
