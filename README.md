@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/Izumi%20X%20Shikimori.png">
+[<img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/Izumi%20X%20Shikimori.png">](https://github.com/ikx7a)
 
 Telegram Bot To Generate Pyrogram And Telethon String Session.
 
