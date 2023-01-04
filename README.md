@@ -65,11 +65,13 @@ Telegram Bot To Generate Pyrogram And Telethon String Session.
 - Generate Pyrogram Version 1 And 2 String Session's 
 - Generate Telethon String Session 
 
-</details><details>
+</details>
+<details open>
 <summary><h3>「 Credits 」</h3></summary>
 
 - [Dan Tès](https://github.com/delivrance) For His [Pyrogram](https://docs.pyrogram.org) Library
 - [Lonami](https://github.com/Lonami) For His [Telethon](https://docs.telethon.dev) Library 
+- Me [@ikx7a](https://github.com/ikx7a)
 
 </details>
 <h2 align="center">
